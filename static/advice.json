@@ -1,0 +1,9 @@
+{
+  "Common Cold": "Rest, drink plenty of fluids, use saline nasal sprays. Honey can soothe sore throat (not for infants). Symptoms usually improve in 7-10 days.",
+  "Influenza": "Rest in bed, stay hydrated, isolate to avoid spreading. Over-the-counter fever reducers if needed. Seek doctor if high fever or breathing issues.",
+  "Bronchitis": "Rest, hydrate, use humidifier. Avoid smoking/irritants. Cough may last weeks — see doctor if worsening.",
+  "Gastroenteritis": "Focus on hydration (oral rehydration solutions). Eat bland foods when able. Wash hands to prevent spread.",
+  "Migraine": "Rest in dark/quiet room, cold compress, stay hydrated. Avoid triggers like certain foods/stress.",
+  "Eczema": "Moisturize frequently with fragrance-free cream. Avoid harsh soaps/triggers. Cool compress for itch.",
+  "default": "Rest, stay hydrated, eat light meals, monitor symptoms closely. Seek medical help if symptoms worsen, persist >7 days, or you feel seriously ill."
+}
